@@ -1,6 +1,6 @@
 # Maintenance
 
-This is a simple maintenance page feel free to use it !
+This is a simple coming soon page feel free to use it !
 
 ## How to install
 
